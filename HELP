@@ -1,3 +1,4 @@
+~ $ cd JTHutsonBaby.github.io
 <html>
  <head>
   <title>
@@ -16,5 +17,4 @@ IDKwhatimdoingineedhelpproductions
     </h2>
   </body>
 </html>
-~ $ cd JTHutsonBaby.github.io
 ~ $ echo "yo" > index.html
